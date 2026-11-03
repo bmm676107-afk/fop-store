@@ -1,0 +1,27 @@
+{
+  "repo": {
+    "name": "Mening Shaxsiy Do'konim",
+    "icon": "icon.png",
+    "address": "https://bm100.github.io/fop-store/fdroid/repo",
+    "description": "Faqat mening dasturlarim joylashgan xususiy bozor."
+  },
+  "packages": {
+    "com.example.aurorastore": {
+      "metadata": {
+        "name": { "en-US": "Mening Birinchi Ilovam" },
+        "summary": { "en-US": "Bu mening shaxsiy dasturim" },
+        "added": 1700000000000,
+        "icon": "icon.png"
+      },
+      "versions": {
+        "1": {
+          "file": {
+            "name": "/aurorastore.apk",
+            "size": 5242880
+          },
+          "releaseChannels": ["Stable"]
+        }
+      }
+    }
+  }
+}
