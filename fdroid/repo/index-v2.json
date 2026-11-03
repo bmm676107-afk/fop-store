@@ -6,7 +6,7 @@
     "description": "Faqat mening dasturlarim joylashgan xususiy bozor."
   },
   "packages": {
-    "com.example.aurorastore": {
+    "com.example.sh": {
       "metadata": {
         "name": { "en-US": "Mening Birinchi Ilovam" },
         "summary": { "en-US": "Bu mening shaxsiy dasturim" },
@@ -16,7 +16,7 @@
       "versions": {
         "1": {
           "file": {
-            "name": "/aurorastore.apk",
+            "name": "/sh.apk",
             "size": 5242880
           },
           "releaseChannels": ["Stable"]
