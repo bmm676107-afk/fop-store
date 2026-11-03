@@ -1,5 +1,5 @@
   "packages": {
-    "com.example.birinchiilovam": {
+    "com.example.sh": {
       "metadata": {
         "name": { "en-US": "Mening Birinchi Ilovam" },
         "summary": { "en-US": "Bu mening 1-dasturim" },
@@ -8,7 +8,7 @@
       },
       "versions": {
         "1": {
-          "file": { "name": "/birinchi-ilovam.apk", "size": 5242880 },
+          "file": { "name": "/sh.apk", "size": 5242880 },
           "releaseChannels": ["Stable"]
         }
       }
