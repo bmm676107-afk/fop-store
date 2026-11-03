@@ -1,27 +1,31 @@
-{
-  "repo": {
-    "name": "Mening Shaxsiy Do'konim",
-    "icon": "icon.png",
-    "address": "https://bm100.github.io/fop-store/fdroid/repo",
-    "description": "Faqat mening dasturlarim joylashgan xususiy bozor."
-  },
   "packages": {
-    "com.example.sh": {
+    "com.example.birinchiilovam": {
       "metadata": {
         "name": { "en-US": "Mening Birinchi Ilovam" },
-        "summary": { "en-US": "Bu mening shaxsiy dasturim" },
+        "summary": { "en-US": "Bu mening 1-dasturim" },
         "added": 1700000000000,
         "icon": "icon.png"
       },
       "versions": {
         "1": {
-          "file": {
-            "name": "/sh.apk",
-            "size": 5242880
-          },
+          "file": { "name": "/birinchi-ilovam.apk", "size": 5242880 },
+          "releaseChannels": ["Stable"]
+        }
+      }
+    },
+    // MANA SHU YERGA VERGUL QO‘YIB, YANGI ILOVANI QO‘SHASIZ:
+    "com.example.ikkinchiilovam": {
+      "metadata": {
+        "name": { "en-US": "Yangi Qo'shilgan Ilova" },
+        "summary": { "en-US": "Bu mening yangi 2-dasturim" },
+        "added": 1700000000000,
+        "icon": "icon2.png"
+      },
+      "versions": {
+        "1": {
+          "file": { "name": "/yangi-ilovam.apk", "size": 7340032 },
           "releaseChannels": ["Stable"]
         }
       }
     }
   }
-}
